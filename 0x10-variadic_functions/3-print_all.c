@@ -1,35 +1,5 @@
-Skip to content
-Lordwill1
-/
-alx-low_level_programming
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Breadcrumbsalx-low_level_programming/0x10-variadic_functions
-/3-print_all.c
-Go to file
-t
-Latest commit
-Lordwill1
-Lordwill1
-Initial commit of project 0x10 .C
-94328c1
- · 
-9 months ago
-History
-Breadcrumbsalx-low_level_programming/0x10-variadic_functions
-/3-print_all.c
-File metadata and controls
-
-Code
-
-Blame
-48 lines (43 loc) · 776 Bytes
+#include <stdio.h>
+#include <stdarg.h>
 #include "variadic_functions.h"
 
 /**
